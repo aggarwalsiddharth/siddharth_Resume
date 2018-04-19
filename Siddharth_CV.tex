@@ -1,0 +1,54 @@
+\documentclass{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{pgf-pie}
+\usepackage{tabu}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{X}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{Y}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{Z}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{A}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\definecolor{darkgrey}{gray}{0.95}
+\definecolor{blue}{rgb}{0.1, 0.5, 1}
+\definecolor{black}{rgb}{0,0,0}
+\geometry{top=1mm,
+	left=1mm,
+	rmargin= 7mm,
+}
+\begin{document}
+	
+	\begin{tabular}{ L{4cm}  C{10cm}  R{6cm} }
+		
+	
+	\includegraphics[scale=0.08]{cv_photo_final}
+	&
+		\color{gray}{\textbf {{\Huge \hspace{1cm} Siddharth\color{black}Aggarwal}}}&
+		 \newline
+		 
+		 	
+		%& \color{black}{ CONTACT : 9818122836} \\
+	%& \color{black}{email : aggarwal.siddharth1@gmail.com}
+	
+\end{tabular}
+\begin{tikzpicture}
+
+\hspace{5.1cm} \shade[left color=blue,right color=red] (0,0) rectangle (16.5,0.2);
+
+\end{tikzpicture}
+\break
+\begin{tabular}{ L{5cm} C{5cm}  R{7cm}  }
+	
+	&
+	{\color{blue}{\textbf {{\LARGE Address }}}} {\color{gray}{\textbf {{\normalsize B7/25 Miyanwali Nagar, Paschim Vihar, New Delhi }}}}
+	&
+	\newline
+		{\color{blue}{\textbf {{\LARGE \hspace{0.1cm}Tel \& Gmail }}}} {\color{gray}{\textbf {{\normalsize +91 9818122836 aggarwal.siddharth\break @gmail.com}}}}
+	
+\end{tabular}
+
+\end{document}
