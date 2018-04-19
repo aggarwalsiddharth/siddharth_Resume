@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.17)  20 APR 2018 02:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.17)  20 APR 2018 02:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -622,7 +622,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 109.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 109.
-[2] (./Siddharth_CV.aux) ) 
+[2] [3] (./Siddharth_CV.aux) ) 
 Here is how much of TeX's memory you used:
  12797 strings out of 492995
  254007 string characters out of 6132704
@@ -631,18 +631,18 @@ Here is how much of TeX's memory you used:
  7956 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,14n,56p,434b,451s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmti12.pfb>
-Output written on Siddharth_CV.pdf (2 pages, 1636342 bytes).
+</usr/local/texlive/2017/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmti12.pfb>
+Output written on Siddharth_CV.pdf (3 pages, 1637108 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  24 words of extra memory for PDF output out of 10000 (max. 10000000)
 
