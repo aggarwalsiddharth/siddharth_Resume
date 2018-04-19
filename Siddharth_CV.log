@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.17)  20 APR 2018 02:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.17)  20 APR 2018 02:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,20 +613,10 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
 ! Too many }'s.
 <recently read> }
                  
-l.104 ...ne \newline Technical\color{red}Skills}}}
+l.104 ...ge\newline  Technical\color{red}Skills}}}
                                                   
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--106
-
- []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <17.28> on input line 109.
@@ -649,7 +639,7 @@ sfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti12.pfb>
-Output written on Siddharth_CV.pdf (2 pages, 1635116 bytes).
+Output written on Siddharth_CV.pdf (2 pages, 1636342 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
